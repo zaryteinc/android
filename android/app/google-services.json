@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727536731019",
+    "project_id": "calluna-90a17",
+    "storage_bucket": "calluna-90a17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727536731019:android:d3c6cc57fd9d12913fe58e",
+        "android_client_info": {
+          "package_name": "com.Calluna.calluna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727536731019-tn2u8ncge2arl1t4nqt30785eh5tjehu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMuhfz-N3SJhSjW1JjWqajqFm5Jh59l5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727536731019-tn2u8ncge2arl1t4nqt30785eh5tjehu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
